@@ -18,10 +18,10 @@ Welcome to my Python scripts repository! Here, I share various useful Python scr
 
 3. Choose a Script
 
-    Replace `_your_chosen_script.py_` with the name of the script you want to use. You can find a list of available scripts in the repository.
+    Replace `your_chosen_script.py` with the name of the script you want to use. You can find a list of available scripts in the repository.
 
     ```bash
-    python _your_chosen_script.py_
+    python your_chosen_script.py
     ```
 
 
